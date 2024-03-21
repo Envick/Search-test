@@ -1,5 +1,5 @@
 import { unwrap } from "solid-js/store";
-import { Search } from "../components/Search/Search";
+import  Search  from "../components/Search/Search";
 import { items } from "../data";
 import { State } from "../state/state";
 import styles from "./Page.module.scss";
